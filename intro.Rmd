@@ -1,1 +1,12 @@
+In this exercise, you will practice reading and modifying an R Markdown (.Rmd) file.
 
+``` {r}
+data1 <- c(10, 12, 14, 16, 18, 20)
+```
+
+Find the mean of the vector you input using the mean function.
+enter your code chunk here:
+
+```{r}
+
+````
